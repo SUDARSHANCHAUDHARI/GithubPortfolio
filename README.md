@@ -7,16 +7,16 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Location-Bangkok%2C%20Thailand-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Experience-13%2B%20years-green?style=flat-square">
-  <img src="https://img.shields.io/badge/Role-Software%20Testing%20Expert-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/Portfolio-81%20Repos-important?style=flat-square">
+  <img src="https://img.shields.io/badge/Role-Android%20%C2%B7%20AI%20%C2%B7%20QA-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/Portfolio-93%20Repos-important?style=flat-square">
 </div>
 
 ---
 
 ## 🚀 About Me
-I'm a passionate **Software Testing Professional** with over **13 years of experience** in the field. Originally from India, I've been living in **Bangkok, Thailand** since 2018 as an expat.
+Android developer, AI tooling builder, and QA engineer with **13+ years of engineering depth**. Based in **Bangkok, Thailand** since 2018. I build and ship Android apps, Claude Code plugins, automation pipelines, and developer tooling — all as a solo operation under **SudarshanTechLabs**.
 
-I also build Android apps, developer tooling, AI-assisted workflows, learning products, and operational utilities. This repository portfolio includes both **public GitHub work** and a substantial body of **private and professional repositories**.
+**22+ Android apps live on Google Play. 4 Claude Code plugins in the registry. 93 repositories across consumer products, AI tooling, QA systems, and release automation.** This portfolio covers both public work that can be reviewed directly and a substantial body of private production systems.
 
 ## 📚 Quick Navigation
 
@@ -31,26 +31,26 @@ I also build Android apps, developer tooling, AI-assisted workflows, learning pr
 
 ## ✅ Verified Repository Counts
 
-These counts were verified on **April 29, 2026** using my live GitHub data:
+These counts were verified on **May 8, 2026** using my live GitHub data:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20Repos-91-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Total%20Repos-93-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Public-41-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Private-50-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Non--Fork-91-6f42c1?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Non--Fork-93-6f42c1?style=for-the-badge">
 </div>
 
-That means older numbers like `39+` or `59` were incomplete. This README has been updated to reflect the fuller portfolio properly.
+93 non-fork repositories across consumer Android apps, Claude Code plugins, AI tooling, QA systems, and release automation.
 
 ## 🎯 Recruiter Summary
 
 If you only want the fast version:
 
-- **13+ years in QA and software testing**
-- **91 verified non-fork repositories**
-- **41 public repositories and 50 private repositories**
-- **Android products, AI tooling, release automation, privacy/compliance tooling, and repository intelligence work**
-- **Public proof points plus substantial private execution**
+- **13+ years of engineering depth** — QA strategy, Android product development, AI tooling
+- **22+ Android apps live on Google Play** — same Clean Architecture, Hilt, StateFlow, Room pattern across the fleet
+- **4 Claude Code plugins** — DroidForge, PlayCraft, PrivacyPilot, KotlinSense — each built to solve a specific production failure
+- **93 verified repositories** — 41 public, 50+ private, zero forks
+- **Solo operation** — architecture through production, no handoffs, no outsourcing
 
 ## 📊 Category Counts
 
@@ -96,7 +96,6 @@ If you only want the fast version:
 <div align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -170,6 +169,7 @@ The private side of my portfolio is not just “hidden repos.” It includes:
   <tr><td><strong>DroidForge</strong></td><td>Android developer automation plugin for signing, scaffolding, Gradle, and version workflow support.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/DroidForge">GitHub</a></td></tr>
   <tr><td><strong>FlyingBatAnimation</strong></td><td>Focused Android animation demo showing graphics-side experimentation.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/FlyingBatAnimation">GitHub</a></td></tr>
   <tr><td><strong>github-portfolio</strong></td><td>Portfolio site repository used to present the broader repo ecosystem clearly.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/github-portfolio">GitHub</a></td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/website">website</a></strong></td><td>Portfolio and engineering platform — Next.js, TypeScript, Tailwind CSS. The live engineering archive at sudarshantechlabs.com.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/website">GitHub</a></td></tr>
   <tr><td><strong>HundredsOfAppsIdeas</strong></td><td>Large product idea bank showing breadth of product thinking and ideation.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/HundredsOfAppsIdeas">GitHub</a></td></tr>
   <tr><td><strong>KotlinSense</strong></td><td>Kotlin developer tooling focused on diagnostics, imports, and navigation support.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/KotlinSense">GitHub</a></td></tr>
   <tr><td><strong>PlayCraft</strong></td><td>Google Play release automation covering listings, release notes, declarations, and publishing workflows.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/PlayCraft">GitHub</a></td></tr>
@@ -218,18 +218,22 @@ These repositories are part of the portfolio, but they are not publicly accessib
   <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/ClaudeWrangler">ClaudeWrangler</a></strong></td><td>Claude AI workflow management and prompt orchestration.</td><td>Private</td></tr>
   <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/Consilience">Consilience</a></strong></td><td>Interdisciplinary knowledge synthesis and learning app.</td><td>Private</td></tr>
   <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/DevBrainOS">DevBrainOS</a></strong></td><td>Local-first codebase intelligence and multi-agent memory system.</td><td>Private</td></tr>
-  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/DreamWeave">DreamWeave</a></strong></td><td>Development documentation and modern software practice guides.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/DreamWeave">DreamWeave</a></strong></td><td>Private dream journal — structured entry capture, pattern tagging, and optional Claude-powered insight generation. All data stays on-device.</td><td>Private</td></tr>
   <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/FacelessEngine">FacelessEngine</a></strong></td><td>Faceless content creation and automation engine.</td><td>Private</td></tr>
-  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/GitGetAppVault">GitGetAppVault</a></strong></td><td>Enterprise-grade GitHub repository browser.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/GitGetAppVault">GitGetAppVault</a></strong></td><td>KMP credential vault and release state manager — Kotlin Multiplatform shared module for signing configs, version state, and Play Store metadata across 22+ Android projects.</td><td>Private</td></tr>
   <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/MCPRegistry">MCPRegistry</a></strong></td><td>Curated registry and discovery tool for MCP servers.</td><td>Private</td></tr>
   <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/OrbiAgents">OrbiAgents</a></strong></td><td>Multi-agent AI orchestration platform.</td><td>Private</td></tr>
-  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/PushyUncommit">PushyUncommit</a></strong></td><td>Reminder utility to push uncommitted work.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/PushyUncommit">PushyUncommit</a></strong></td><td>Multi-repo git intelligence — scans 80+ repos for uncommitted changes, analyzes diffs, and generates structured atomic commit messages. Android companion included.</td><td>Private</td></tr>
   <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/RepoMind">RepoMind</a></strong></td><td>AI-powered repository analysis and codebase intelligence.</td><td>Private</td></tr>
   <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/SignageCheckAI">SignageCheckAI</a></strong></td><td>AI-powered signage and display content verification tool.</td><td>Private</td></tr>
   <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/SkillForge">SkillForge</a></strong></td><td>CLI tool for auditing and managing AI prompt skill files.</td><td>Private</td></tr>
   <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/Synaptiq">Synaptiq</a></strong></td><td>Production AI agent debugging, loop detection, and cost tracking.</td><td>Private</td></tr>
   <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/TokenOPS">TokenOPS</a></strong></td><td>API token management and operations tooling.</td><td>Private</td></tr>
   <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/website-monitor">website-monitor</a></strong></td><td>Website monitoring tool.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/PRSignal">PRSignal</a></strong></td><td>Hybrid PR review enforcement — GitHub webhook + Slack DM + Chrome extension overlay so reviewers never miss a PR assignment.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/AgentGrid">AgentGrid</a></strong></td><td>Visual control-room prototype for AI agents — status cards, queue depth, latency signals, log inspection, and filter controls.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/StorySurface">StorySurface</a></strong></td><td>Interactive narrative interface prototype — mood-driven story presentation and scene staging.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/FlowScreen">FlowScreen</a></strong></td><td>Reactive digital signage prototype — mode-based display behavior, venue-specific scene presets, browser-first interaction preview.</td><td>Private</td></tr>
 </table>
 
 ### Public Privacy Policy and Compliance Repositories

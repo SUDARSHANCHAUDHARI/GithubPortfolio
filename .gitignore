@@ -25,3 +25,6 @@ graphify-out/
 secrets.json
 
 repoguard-results/
+
+# local AI task notes
+CLAUDE_TASKS.md

@@ -69,39 +69,22 @@ const repoGroups = [...document.querySelectorAll(".repo-group")];
 
 let activeFilter = "all";
 
-const ITEM_LEVEL_FILTERS = new Set(["plugin", "qa"]);
-
 function updateRepoFilters() {
     const searchValue = (repoSearch?.value || "").trim().toLowerCase();
-    const isItemLevel = ITEM_LEVEL_FILTERS.has(activeFilter);
+    const isFiltering = activeFilter !== "all" || Boolean(searchValue);
 
     repoGroups.forEach((group) => {
-        const summary = group.querySelector("summary");
-        const groupTags = (summary?.dataset.tags || "").toLowerCase();
-        const items = [...group.querySelectorAll("li")];
-
-        if (isItemLevel) {
-            let visibleCount = 0;
-            items.forEach((item) => {
-                const itemTags = (item.dataset.tags || "").toLowerCase();
-                const matchesFilter = itemTags.includes(activeFilter);
-                const matchesSearch = !searchValue || item.textContent.toLowerCase().includes(searchValue);
-                const show = matchesFilter && matchesSearch;
-                item.style.display = show ? "" : "none";
-                if (show) visibleCount++;
-            });
-            group.classList.toggle("is-hidden", visibleCount === 0);
-            if (visibleCount > 0) group.open = true;
-        } else {
-            items.forEach((item) => { item.style.display = ""; });
-            const matchesFilter = activeFilter === "all" || groupTags.includes(activeFilter);
-            const matchesSearch = !searchValue || group.textContent.toLowerCase().includes(searchValue);
-            const shouldShow = matchesFilter && matchesSearch;
-            group.classList.toggle("is-hidden", !shouldShow);
-            if (shouldShow && (activeFilter !== "all" || Boolean(searchValue))) {
-                group.open = true;
-            }
-        }
+        let visibleCount = 0;
+        group.querySelectorAll("li").forEach((item) => {
+            const itemTags = (item.dataset.tags || "").split(" ");
+            const matchesFilter = activeFilter === "all" || itemTags.includes(activeFilter);
+            const matchesSearch = !searchValue || item.textContent.toLowerCase().includes(searchValue);
+            const show = matchesFilter && matchesSearch;
+            item.style.display = show ? "" : "none";
+            if (show) visibleCount++;
+        });
+        group.classList.toggle("is-hidden", visibleCount === 0);
+        if (isFiltering && visibleCount > 0) group.open = true;
     });
 }
 
